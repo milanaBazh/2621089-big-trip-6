@@ -2,7 +2,7 @@
 
 * Студент: [Милана Бажукова](https://up.htmlacademy.ru/univer-js2/6/user/2621089).
 * Наставник: [Евгений
-Лепёшкин](https://htmlacademy.ru/profile/id144641)
+Лепёшкин ](https://htmlacademy.ru/profile/id144641)
 
 ---
 
